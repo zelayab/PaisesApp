@@ -1,0 +1,33 @@
+{
+  "CHOOSE_LANGUAGE": "Lenguaje",
+  "SEARCH_TITLE":"BUSCADOR DE PAISES",
+  "SEARCH": "Buscar",
+  "TABLE":{
+    "COUNTRY_FLAG": "Bandera",
+    "COUNTRY_NAME": "Capital - Pais",
+    "POPULATION": "población",
+    "MORE": "Más..."
+  },
+  "COUNTRY":{
+    "BACK_TO_SEARCH":"Volver a búsquedas",
+    "LOADING":"Cargando País, esperar por favor...",
+    "COUNTRY":"País - ",
+    "FLAG":"Bandera ",
+    "INFO":"Información ",
+    "POPULATION":"población: ",
+    "NUMBER_CODE":"Número de código: ",
+    "ALPHA_CODE":"Código alpha3: ",
+    "CURRENCIES":"Monedas: ",
+    "BORDERS":"fronteras: ",
+    "LANGUAGES":"Idiomas: ",
+    "TRANSLATIONS":"Traducciones: "
+  },
+  "SEARCH_REGION":"Buscar por region",
+  "CHOOSE_REGION":"Seleccionar region",
+  "SEARCH_COUNTRY":"Buscar por pais",
+  "SEARCH_CAPITAL":"Buscar por capital",
+  "ERROR":{
+    "ERROR":"Error",
+    "MESSAGE":"No se encontro nada con el término de búsqueda "
+  }
+}

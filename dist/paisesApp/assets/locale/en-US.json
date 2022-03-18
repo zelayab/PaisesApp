@@ -1,0 +1,33 @@
+{
+  "CHOOSE_LANGUAGE": "Language",
+  "SEARCH_TITLE":"COUNTRIES SEARCH",
+  "SEARCH": "Search",
+  "TABLE":{
+    "COUNTRY_FLAG": "Country Flag",
+    "COUNTRY_NAME": "Capital City - Country",
+    "POPULATION": "Population",
+    "MORE": "More..."
+  },
+  "COUNTRY":{
+    "BACK_TO_SEARCH":"Back to search",
+    "LOADING":"Loading Country, please wait...",
+    "COUNTRY":"Country - ",
+    "FLAG":"Flag",
+    "INFO":"Info",
+    "POPULATION":"Population: ",
+    "NUMBER_CODE":"Number Code: ",
+    "ALPHA_CODE":"Alpha3 Code: ",
+    "CURRENCIES":"Currencies: ",
+    "BORDERS":"Borders: ",
+    "LANGUAGES":"Languages: ",
+    "TRANSLATIONS":"Translations:"
+  },
+  "SEARCH_REGION":"Search for region",
+  "CHOOSE_REGION":"Choose a region",
+  "SEARCH_COUNTRY":"Search for Country",
+  "SEARCH_CAPITAL":"Search for Capital City",
+  "ERROR":{
+    "ERROR":"Error",
+    "MESSAGE":"Something went wrong. No results found with the term "
+  }
+}
